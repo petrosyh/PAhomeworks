@@ -1,0 +1,8 @@
+x := 1;
+y := read;
+while( 99 < y )
+do
+  y := y + (- 1);
+  liberation := 1
+
+(* ANSWER : YES *)

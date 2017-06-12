@@ -1,0 +1,11 @@
+x := read;
+(if ( x < 100 )
+  then x := 100
+  else liberation := 1);
+(if ( read < 100 )
+  then x := 1
+  else liberation := 0)
+
+(* answer : NO *)
+
+

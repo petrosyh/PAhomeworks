@@ -1,0 +1,10 @@
+x := 1;
+y := 2;
+y := read;
+(if ( x < 10 )
+  then r := 415
+  else r := 1);
+r := r + 1867;
+z := (10000);
+z := (- z)
+(* answer : YES *)

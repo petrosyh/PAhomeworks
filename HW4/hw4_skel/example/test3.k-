@@ -1,0 +1,14 @@
+(* Public test case 1 *)
+z := READ;
+x := 1;
+y := 2;
+liberation := 0
+
+(*;
+while ( (READ < 100) && (y < 20) ) 
+do 
+ x := x + 1;
+ y := y + 1
+*)
+
+(* Output : prints out "3\n" *)

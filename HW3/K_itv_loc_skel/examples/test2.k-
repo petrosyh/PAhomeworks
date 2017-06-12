@@ -1,0 +1,10 @@
+(* Public test case 2 *)
+
+x := 1;
+y := 3;
+z := true;
+while(y < 10)
+do
+ if (z) then (y := y + 1) else (y := y + 1; y := y + 2)
+
+(* Output : Reads in n and output n+1 *)

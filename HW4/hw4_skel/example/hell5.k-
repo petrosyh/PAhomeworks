@@ -1,0 +1,7 @@
+(if ( read < 100 || read < 100 )
+  then liberation := 1
+  else liberation := 0)
+
+(* answer : NO *)
+
+

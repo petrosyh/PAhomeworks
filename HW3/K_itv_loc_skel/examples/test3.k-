@@ -1,0 +1,6 @@
+x := true; 
+y := 1;
+y := &x;
+*y := 3;
+if(true&&false) then z:=&x else (if(true||false) then z:=&y else z:=&x)
+

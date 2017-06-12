@@ -1,0 +1,7 @@
+x := 1;
+y := read;
+if ( y < 100 )
+  then liberation := 3
+  else liberation := 1
+
+(* ANSWER : YES *)

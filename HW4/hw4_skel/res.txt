@@ -1,0 +1,74 @@
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = (-6, 1202),   bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = (-6, 1202),   bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = (5, 665),   bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = (5, 665),   bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (1, 415),   bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (0, 415),   bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (0, 415),   bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = (0, 415),   bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = botZ bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = readint bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = botZ bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = (0, 2),   bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = botZ bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = (0, 2),   bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = botZ bool : bottom
+z -> (q, r) = botZ bool : bottom
+******* mem in point *******
+y -> (q, r) = botZ bool : bottom
+x -> (q, r) = (0, 1),   bool : bottom
+r -> (q, r) = botZ bool : bottom
+z -> (q, r) = botZ bool : bottom
+
+*************************
+yxrzyNo, it is not davinci codeYes, it is davinci codexNo, it is not davinci coderYes, it is davinci codezNo, it is not davinci codeYes, it is davinci code
+Yes, it is davinci code

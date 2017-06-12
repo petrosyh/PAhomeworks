@@ -1,0 +1,9 @@
+x := 1;
+y := read;
+liberation := 1;
+skip;
+while( true )
+do
+  (x := 0; liberation := liberation + 2; z := 415)
+
+(* ANSWER : YES *)

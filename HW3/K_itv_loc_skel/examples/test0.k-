@@ -1,0 +1,6 @@
+x := true; 
+y := 1;
+y := &x;
+*y := 3;
+if(true&&false) then x:=1 else x:=2
+

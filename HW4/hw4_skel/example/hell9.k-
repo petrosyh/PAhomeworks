@@ -1,0 +1,9 @@
+x := 415;
+y := read;
+while( true )
+do
+	x := x + (1867);
+  liberation := 3;
+  liberation := 1
+
+(* ANSWER : YES *)

@@ -1,0 +1,12 @@
+x := 1;
+y := 2;
+(if ( x < 10 )
+  then r := 415
+  else r := 1);
+(if ( y > 1)
+  then r := 411
+  else r := 415);
+r := r + 1871
+
+(* answer : NO *)
+
